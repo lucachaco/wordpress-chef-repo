@@ -1,1 +1,1 @@
-cookbook_path [ '/home/safe/chef-repo/cookbooks' ]
+cookbook_path [ '/home/safe/wordpress-chef-repo/cookbooks' ]
